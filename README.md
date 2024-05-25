@@ -17,8 +17,8 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-repo.git
-   ```
+   git clone  https://lutherbenny.github.io/my-portfolio-simple-websit/
+    ```
 2. Open the `index.html` file in your web browser to view the website.
 
 ## Contributing
